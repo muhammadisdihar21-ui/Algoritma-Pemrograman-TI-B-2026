@@ -1,4 +1,4 @@
-"""if 5 > 3
+if 5 > 3
     print("Benar")
 
 print(10 / 0)
@@ -59,7 +59,7 @@ except ValueError as e:
 
 with open("file.txt") as f:
     data = f.read()
-"""
+
 
 try:
     1/0
